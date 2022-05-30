@@ -12,10 +12,14 @@ Project "key": "OP"
 Para encontrar el API Key
 Powershell
 
+```
+
 $Text = ‘email:token’
 $Bytes = [System.Text.Encoding]::UTF8.GetBytes($Text)
 $EncodedText = [Convert]::ToBase64String($Bytes)
 $EncodedText
+
+```
 
 Basic [resultado_superior PowerShell]
 
