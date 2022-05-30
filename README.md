@@ -33,6 +33,8 @@ Creacion de Issue
 
 https://fracttal.atlassian.net/rest/api/3/issue/
 
+´´´
+
 {
     "fields": {
         "summary": "Test3",
@@ -67,8 +69,12 @@ https://fracttal.atlassian.net/rest/api/3/issue/
     }
 }
 
+´´´
+
 En JSON
+
 Authorization => API key, Basic XXXXXXXXX
+
 Content-Type =>application/json
 *****************************************************************************************
 
