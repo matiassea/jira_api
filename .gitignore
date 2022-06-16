@@ -3,6 +3,6 @@ package-lock.json
 route
 node_modules
 headers
-env
+.env
 Creation.xlsx
 test.xlsx
